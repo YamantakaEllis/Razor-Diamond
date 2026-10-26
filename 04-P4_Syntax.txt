@@ -1,0 +1,17 @@
+
+RAZOR V1.0 MANUAL - DIAMOND LANGUAGE - <> A++ <>
+Page 4: Syntax Rules
+
+1. Every file MUST start GROUND 0.0000 - clean start - no assumptions
+2. Every HYPOTHESIS MUST have FAILS_IF or REJECT - else ERROR NOT_FALSIFIABLE - Popper
+3. Syntax: HYPOTHESIS name PREDICTS what FAILS_IF condition COST number
+Example: HYPOTHESIS boot_ok PREDICTS disk_readable FAILS_IF checksum_fail COST 1
+4. OBSERVE must be real - OBSERVE checksum=ok
+5. ELIMINATE removes any H where observe = FAILS_IF - one line does 40 lines classical
+6. After ELIMINATE: RULEIN_ALL AS possible - then REINSTATE_IF majority(possible) 51%
+7. CONSOLIDATE_BY least_conflicts - cheapest cost and least conflicts wins
+8. VERIFY needs second_observe - independent - if survives -> A+ -> <> A++ <> DIAMOND
+9. If not A++ -> stay at 0.0000 - safe - ask for other disk - never crash
+10. Only 3 errors: NOT_FALSIFIABLE, TRIGGER_TOO_LOOSE, ENTROPY_HIGH
+
+Example minimal 3-line file: GROUND 0.0000 / HYPOTHESIS hello_ok PREDICTS prints_hello FAILS_IF io_fail COST 1 / OBSERVE io=ok / ELIMINATE -> <> A++ HELLO <>

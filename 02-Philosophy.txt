@@ -1,0 +1,17 @@
+
+RAZOR V1.0 MANUAL - DIAMOND LANGUAGE - <> A++ <>
+Page 2: Philosophy
+
+0.0000 ground: start with nothing, no assumptions - GROUND 0.0000 = clean start
+
+Try to prove yourself wrong: every hypothesis must have FAILS_IF - Popper falsifiability - if you can't prove yourself wrong, it's NOT_FALSIFIABLE error - public domain philosophy
+
+Diamond if survives: if hypothesis survives 2 independent observations -> VERIFY second_observe -> <> A++ <> DIAMOND - proven beyond alternative
+
+Popper + Occam + Fibonacci + ATMS:
+- Popper: FAILS_IF required
+- Occam: COST 1 is cheapest, least conflicts wins CONSOLIDATE_BY
+- Fibonacci: checks at 1,1,2,3,5,8,13 weight = 1/Fib - 87% less time
+- ATMS: RULEIN_ALL AS possible + REINSTATE_IF majority 51% - 40 + 30 lines classical replaced
+
+Public domain logic only - no copyrighted code - Fibonacci 1202 math, Occam 1300s, ATMS MIT 1980s, Popper

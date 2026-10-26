@@ -1,0 +1,11 @@
+
+RAZOR V1.0 MANUAL - DIAMOND LANGUAGE - <> A++ <>
+Page 1: Cover - RAZOR V1.0 - <> A++ <>
+Copyright (c) 2026 Yamantaka Ellis - Melbourne VIC 3020 Australia
+GitHub: github.com/YamantakaEllis/razor-diamond
+5 lines replaces 300 lines - GROUND 0.0000 ELIMINATE VERIFY
+5 Cleans: Start clean = 0.0000, Check clean = Fibonacci forward, Forget clean = Reverse Fibonacci zip-crunch, Remember clean = Tight 3-cue TRIGGER, Prove clean = A++ diamond, Backup clean = mirrored FULL/SHORT/0.0000 on all systems
+Non-infringing: Uses only public domain logic - Fibonacci math 1202, Occam philosophy 1300s, ATMS MIT 1980s, Popper falsifiability, POSIX JSON SQLite MIT/BSD - No Windows/Linux code copied
+License: MIT open core - Commercial Diamond needs license - $1.188M/team or $9M org-wide
+Result Levels: (A) (B) (A+) (C) <> A++ <> <> A++ DANGER <>
+12 Keywords: GROUND, HYPOTHESIS, PREDICTS, REQUIRES, FAILS_IF, COST, OBSERVE, ELIMINATE, RULEIN_ALL, REINSTATE_IF, CONSOLIDATE_BY, VERIFY, HOLD_UNTIL, TRIGGER_UNZIP

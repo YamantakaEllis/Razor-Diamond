@@ -1,0 +1,19 @@
+
+RAZOR V1.0 MANUAL - DIAMOND LANGUAGE - <> A++ <>
+Page 3: 12 Keywords
+
+1. GROUND - start point - GROUND 0.0000 = clean start - must be first line
+2. HYPOTHESIS - possible answer - must have FAILS_IF
+3. PREDICTS - what it says will happen
+4. REQUIRES - what must be true first
+5. FAILS_IF - how to prove it wrong - Popper - required for every H
+6. COST - Occam - COST 1 is cheapest - least cost wins
+7. OBSERVE - real data - OBSERVE x=...
+8. ELIMINATE - remove those that fail - 1 line does 40 lines work
+9. RULEIN_ALL - ATMS - RULEIN_ALL AS possible = keep all possibilities
+10. REINSTATE_IF - REINSTATE_IF majority(possible) 51% = put cheapest back if too many eliminated
+11. CONSOLIDATE_BY - least_conflicts = pick winner
+12. VERIFY - second independent observe -> A+ -> <> A++ <> DIAMOND
+Extra: HOLD_UNTIL - wait until threat gone, TRIGGER_UNZIP - restore from zip, BACKUP_USING
+
+Every file starts GROUND 0.0000 - ends VERIFY -> <> A++ <>
